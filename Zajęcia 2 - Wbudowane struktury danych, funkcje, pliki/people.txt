@@ -1,0 +1,3 @@
+1. Imie: Jacek, Nazwisko: Galka, Wiek: 26 
+2. Imie: Piotr, Nazwisko: Majewski, Wiek: 22 
+3. Imie: John, Nazwisko: Doe, Wiek: 18 
